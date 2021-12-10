@@ -7,6 +7,8 @@ I’m interested with programming and web-development.
 ![Css3](https://img.shields.io/badge/css-333333?style=for-the-badge&logo=css3)
 ![scss](https://img.shields.io/badge/scss-333333?style=for-the-badge&logo=sass)
 ![JavaScript](https://img.shields.io/badge/JavaScript-333333?style=for-the-badge&logo=JavaScript)
+![React](https://img.shields.io/badge/react-333333?style=for-the-badge&logo=react)
+![Vue](https://img.shields.io/badge/vue-333333?style=for-the-badge&logo=vue)
 ![php](https://img.shields.io/badge/php-333333?style=for-the-badge&logo=php)
 
 ## Socials
